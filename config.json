@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvarse",
+        "uuid": 2197272,
+        "checksum": "7o2jnz"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
